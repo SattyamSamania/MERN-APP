@@ -29,6 +29,7 @@ const Home = () => {
         ))}
       </div>
       <WorkoutForm />
+      
     </div>
   )
 }
